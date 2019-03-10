@@ -2,6 +2,8 @@
 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
+#### 归属：[MCS-51](https://github.com/sochub/MCS-51)
+
 ## [描述](https://github.com/sochub/WCH-8051/wiki) 
 
 [![sites](docs/wch.png)](http://www.qitas.cn) 
