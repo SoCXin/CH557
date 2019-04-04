@@ -6,24 +6,27 @@
 
 ## [描述](https://github.com/sochub/WCH-8051/wiki) 
 
+江苏沁恒8051内核单片机
+
 [![sites](docs/wch.png)](http://www.qitas.cn) 
 
-## [组成](SoC/) 
+## [组成](https://github.com/sochub/WCH-8051)
 
-#### [CH552](https://github.com/sochub/CH552) 
+#### [文档](docs/)
 
-极低成本USB通信芯片，拥有不错的处理速度和丰富的外设
+#### [资源](src/)
 
-#### [CH554](https://github.com/sochub/CH554) 
+#### [工程](project/)
 
-低成本USB通信芯片，功能全面资料丰富
+--- 
 
-#### [CH558](https://github.com/sochub/CH558) 
+### [收录型号](https://github.com/sochub/WCH-8051)
 
-高性能USB通信芯片，十分强大丰富
+- [CH552](https://github.com/sochub/CH552) 
 
----
+- [CH554](https://github.com/sochub/CH554) 
 
-###  [SoC开发平台](http://www.qitas.cn)   
+- [CH558](https://github.com/sochub/CH558) 
 
-###  qitas@qitas.cn
+##  [SoC开发平台](http://www.qitas.cn)  
+
