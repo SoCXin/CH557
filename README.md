@@ -9,7 +9,7 @@
 
 江苏沁恒增强型8051内核单片机，在USB功能的基础上添加更丰富的接口和封装，满足更多USB外设控制的需求
 
-[![sites](SoC/wch.png)](http://www.qitas.cn) 
+[![sites](SoC/CH55.png)](http://www.wch.cn/products/category/5.html) 
 
 
 ### [包括型号](https://github.com/sochub/CH55)
