@@ -1,4 +1,4 @@
-﻿# [CH55](https://github.com/sochub/CH55)
+﻿# [CH55x USB系列](https://github.com/sochub/CH55)
 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 ####  qitas@qitas.cn
@@ -10,7 +10,6 @@
 江苏沁恒增强型8051内核单片机，主要功能是USB通信，在USB功能的基础上添加更丰富的接口和封装，满足更多USB外设控制的需求，可用于USB通信控制类产品。
 
 [![sites](SoC/CH55.png)](http://www.wch.cn/products/category/5.html) 
-
 
 ### [收录型号](https://github.com/sochub/CH55)
 
