@@ -1,12 +1,12 @@
 {
     "name":"CH547",
-    "series":["CH547"],
+    "series":["CH547","CH546"],
     "type":"MCU",
     "Core":"8051",
     "Freq":"48MHz",
     "description":"WCH 1T 8051 CH547 MCU",
     "peripheral": ["ADC","DAC","USB","RTC","UART","SUART","I2C","I2S","SPI","AES","DMA"],
-    "package":["LQFP48","LQFP64","LQFP32","QFN32"],
+    "package":["LQFP48","QFN28","SOP16"],
     "SRAM":8,
     "Flash":64,
     "UART": {

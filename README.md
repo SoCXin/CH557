@@ -34,6 +34,6 @@
 
 [CH547](https://github.com/SoCXin/CH547) 相较于 [CH549](https://github.com/SoCXin/CH549) 去掉了TYPE-C相关功能，没有USB-Host，其余规格相同。
 
-相较于[CH546](http://www.wch.cn/products/CH546.html) 降低了flash容量，没有封装QFN28封装。
+[CH546](http://www.wch.cn/products/CH546.html)降低了flash容量(35K)，没有封装QFN28封装。
 
 ###  [SoC.芯](http://www.SoC.Xin)
