@@ -36,4 +36,4 @@
 
 相较于[CH546](http://www.wch.cn/products/CH546.html) 降低了flash容量，没有封装QFN28封装。
 
-###  [SoC芯平台](http://www.SoC.Xin)
+###  [SoC.芯](http://www.SoC.Xin)
