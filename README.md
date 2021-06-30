@@ -3,7 +3,7 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
 * [WCH](http://www.wch.cn/)：[8051](https://github.com/SoCXin/8051)
-* [L1R1](https://github.com/SoCXin/Level)：12/48 MHz
+* [L2R2](https://github.com/SoCXin/Level)：12/48 MHz
 
 ## [简介](https://github.com/SoCXin/CH557/wiki)
 
@@ -16,7 +16,7 @@ CH557提供丰富的接口资源，包括2组异步串口、6路PWM、14通道�
 
 #### 关键特性
 
-* 内置4端口USB root-hub集线器
+* 4端口USB root-hub集线器
 * UART x 2 + SPI x 2
 
 ### [资源收录](https://github.com/SoCXin)
@@ -27,7 +27,7 @@ CH557提供丰富的接口资源，包括2组异步串口、6路PWM、14通道�
 
 ### [选型建议](https://github.com/SoCXin)
 
-[CH557](https://github.com/SoCXin/CH557)
+[CH557](https://github.com/SoCXin/CH557)是低端USB HUB的实现载体，和CH55X的生态兼容实现开发效率
 
 * LQFP48
 * LQFP64
