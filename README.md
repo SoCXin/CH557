@@ -2,11 +2,10 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[WCH](http://www.wch.cn/)
-#### [Core](https://github.com/SoCXin/8051)：[E8051](https://github.com/SoCXin/8051)
-#### [Level](https://github.com/SoCXin/Level)：48MHz
+* [WCH](http://www.wch.cn/)：[8051](https://github.com/SoCXin/8051)
+* [L1R1](https://github.com/SoCXin/Level)：12/48 MHz
 
-## [CH547简介](https://github.com/SoCXin/CH557/wiki)
+## [简介](https://github.com/SoCXin/CH557/wiki)
 
 [CH557](https://github.com/SoCXin/CH557) 兼容MCS51的增强型E8051内核，79%指令是单字节单周期指令，3KB BootLoader + 60KB CodeFlash，8K xRAM + 256B iRAM，1K DataFlash。
 
@@ -20,15 +19,19 @@ CH557提供丰富的接口资源，包括2组异步串口、6路PWM、14通道�
 * 内置4端口USB root-hub集线器
 * UART x 2 + SPI x 2
 
-### [资源收录](https://github.com/SoCXin/CH557)
+### [资源收录](https://github.com/SoCXin)
 
-* [参考文档](docs/)
 * [参考资源](src/)
+* [参考文档](docs/)
 * [参考工程](project/)
 
 ### [选型建议](https://github.com/SoCXin)
 
+[CH557](https://github.com/SoCXin/CH557)
 
-CH556是[CH557](https://github.com/SoCXin/CH557)的简化版，去掉了RGB三色LED的PWM模块，仅提供2端口USB root-hub根集线器，其它的与CH557相同，可直接参考CH557手册和资料。
+* LQFP48
+* LQFP64
 
-###  [芯云 www.SoC.xin](http://www.SoC.Xin)
+[![sites](docs/list.png)](http://www.wch.cn/products/CH557.html)
+
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
