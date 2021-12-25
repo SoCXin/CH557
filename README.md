@@ -4,6 +4,7 @@
 
 * [WCH](http://www.wch.cn/)：[8051](https://github.com/SoCXin/8051)
 * [L2R2](https://github.com/SoCXin/Level)：12/48 MHz
+* [Xin文档](https://docs.soc.xin/CH557)
 
 ## [简介](https://github.com/SoCXin/CH557/wiki)
 
@@ -24,6 +25,8 @@ CH557提供丰富的接口资源，包括2组异步串口、6路PWM、14通道�
 * [参考资源](src/)
 * [参考文档](docs/)
 * [参考工程](project/)
+
+
 
 ### [选型建议](https://github.com/SoCXin)
 
